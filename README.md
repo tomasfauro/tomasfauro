@@ -11,7 +11,7 @@
 
 - 🌱 I’m learning **C# and Python**, and improving my skills in **SQL (Oracle SQL Developer)**
 
-- 💻 I have experience in **Java, HTML5, CSS3, JavaScript**, and basic **Adobe Photoshop** design
+- 💻 I have experience in **Java, HTML5, CSS3, JavaScript**, and advanced **Adobe Photoshop** design
 
 - 🛡️ I’ve completed the **Microsoft SC-900 (Security, Compliance, and Identity Fundamentals)** certification
 
