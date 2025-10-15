@@ -17,7 +17,7 @@
 
 - 👨‍💻 I'm passionate about **Cybersecurity**, **AI** and **Full-Stack Development**
 
-- 📫 Reach me at: **tomasfaurocto@gmail.com**
+- 📫 Reach me at: **tomasfauro@hotmail.com**
 
 - ⚡ Fun fact: I love learning new technologies, reading, and constantly pushing myself to grow
 
