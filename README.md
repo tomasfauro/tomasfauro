@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently completing a **FP in Multiplatform App Development** at IES Luis Braille (Madrid)
 
-- 🌱 I’m learning **C# and Python**, and improving my skills in **SQL (Oracle SQL Developer)**
+- 🌱 I’m learning **Kotlin and Python**, and improving my skills in **Java**
 
 - 💻 I have experience in **Java, HTML5, CSS3, JavaScript**, and advanced **Adobe Photoshop** design
 
