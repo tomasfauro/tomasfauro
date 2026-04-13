@@ -13,7 +13,7 @@
 
 - 💻 I have experience in **Java, HTML5, CSS3, JavaScript**, and advanced **Adobe Photoshop** design
 
-- 🛡️ I’ve completed the **Microsoft SC-900 (Security, Compliance, and Identity Fundamentals)** certification
+- 🛡️ I’ve completed the **Microsoft SC-900 (Security, Compliance, and Identity Fundamentals)** and Microsoft PL-900 (Power Platform Fundamentals) certification!
 
 - 👨‍💻 I'm passionate about **Cybersecurity**, **AI** and **Full-Stack Development**
 
